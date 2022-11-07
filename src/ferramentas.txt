@@ -1,0 +1,245 @@
+
+links:
+
+https://www.google.com/search?client=firefox-b-d&q=npx
+
+https://docs.spring.io/spring-boot/docs/current/reference/html/appendix-application-properties.html
+
+https://spring.io/projects/spring-boot
+
+[teste]:
+	https://www.primecontrol.com.br/10-ferramentas-de-automacao-de-testes-mais-usadas/
+
+	https://www.selenium.dev/
+
+[otimização de código]:
+	https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
+
+[repositório]:
+	https://git-scm.com/
+	
+	https://github.com/
+
+[ide]:
+	https://code.visualstudio.com/
+	
+	https://netbeans.apache.org/download/index.html
+	
+	https://www.eclipse.org/downloads/
+	
+	https://spring.io/tools
+	
+	https://notepad-plus-plus.org/downloads/
+	
+	https://www.sublimetext.com/3
+	
+	https://www.jetbrains.com/pycharm/
+	
+	https://www.jetbrains.com/go/
+	
+	https://developer.android.com/studio
+	
+	https://developer.apple.com/xcode/
+
+[métricas]
+	https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fapp-pizzaria.netlify.app%2F&tab=desktop
+	
+	https://gtmetrix.com/reports/app-pizzaria.netlify.app/sIFbrYrQ/
+
+	https://www.loadview-testing.com/pt-br/
+
+	https://jmeter.apache.org/
+	
+	https://k6.io/
+	
+	https://blog.lahar.com.br/seo/o-que-e-seo/
+
+[design/engenharia/modelagem/planejamento]:
+	https://app.moqups.com/
+
+	https://www.figma.com/
+	
+	https://pixabay.com/pt/
+	
+	https://code.tutsplus.com/pt/articles/9-android-templates-to-inspire-your-next-project--cms-25412
+
+	https://bancosdeimagens.com/sites-semelhantes-ao-canva/
+	
+	https://code.tutsplus.com/articles/best-ecommerce-android-app-templates--cms-31887
+	
+	https://www.sketchappsources.com/category/ui.html
+	
+	https://www.rocketwp.com.br/10-modelos-de-checkouts-em-html-e-css-gratis/
+	
+	https://developer.android.com/guide/topics/ui/look-and-feel?hl=pt
+
+	https://themeforest.net/category/site-templates
+	
+	https://themeforest.net/category/ecommerce
+	
+	https://themes.getbootstrap.com/
+
+	https://dribbble.com/shots/3829284-Dipnet-login-page
+
+	https://colorlib.com/wp/html5-and-css3-login-forms/
+
+	https://pt.squarespace.com/templates/navegar/topica/designs-populares/tipo/associacoes&Loja-on-line
+	https://www.canva.com/pt_br/
+
+	https://color.adobe.com/pt/explore/
+	
+	https://material.io/develop
+
+	https://app.diagrams.net/
+	
+	https://swagger.io/
+
+	https://trello.com/pt-BR
+	
+	https://www.bootdey.com/
+	
+	https://sparxsystems.com/
+	
+	https://www.devmedia.com.br/quick-tips-case-studio-2-parte-i/16100
+
+	https://erwin.com/
+	
+	http://metriccs.com.br/
+	
+	https://www.microsoft.com/pt-br/microsoft-365/visio/flowchart-software
+	
+	https://www.scrum.org/professional-scrum-certifications
+	
+	https://www.scrumstudy.com/portuguese/scrum-fundamentals-certified
+	
+	https://www.microsoft.com/pt-br/microsoft-365/project/project-management-software
+	
+	https://www.atlassian.com/software/jira
+	
+	https://xmobots.com.br/softwares/xplanner/
+	
+	https://www.agilefant.com/
+	
+	https://www.atlassian.com/br/software/jira?&aceid=&adposition=&adgroup=104775122797&campaign=10596397434&creative=456338518008&device=c&keyword=%2Bscrum&matchtype=b&network=g&placement=&ds_kids=p55785302469&ds_e=GOOGLE&ds_eid=700000001550060&ds_e1=GOOGLE&gclid=CjwKCAjwhMmEBhBwEiwAXwFoEXHzFNQh8NB2I8ee_4LfXSZx5wZX10XBqzWgrfZVlJ3M5Tc-N5mBPhoCPaAQAvD_BwE&gclsrc=aw.ds
+	
+	https://www.lucidchart.com/pages/landing/visio-alternative?utm_source=google&utm_medium=cpc&utm_campaign=_en_tier2_desktop_search_nb_exact_&km_CPC_CampaignId=6444864612&km_CPC_AdGroupID=78651219964&km_CPC_Keyword=microsoft%20visio&km_CPC_MatchType=e&km_CPC_ExtensionID=&km_CPC_Network=g&km_CPC_AdPosition=&km_CPC_Creative=416926875756&km_CPC_TargetID=aud-552508845282:kwd-12451500&km_CPC_Country=1001533&km_CPC_Device=c&km_CPC_placement=&km_CPC_target=&mkwid=sQI8PmXTr_pcrid_416926875756_pkw_microsoft%20visio_pmt_e_pdv_c_slid__pgrid_78651219964_ptaid_aud-552508845282:kwd-12451500_&gclid=CjwKCAjwhMmEBhBwEiwAXwFoET8ow363aJhgipNTmWwSaaDHpuYm8vj1F0BoXf0U2_qeTPjxHqfI2BoC534QAvD_BwE
+
+
+[prototipação]:
+	https://www.axure.com/
+
+
+[ui/ux | language-tools]:
+	https://material-ui.com/pt/
+
+	https://material.angular.io/
+	
+	https://bootswatch.com/
+	
+	https://getbootstrap.com/
+	
+	https://react-bootstrap.github.io/
+	
+	https://vuetifyjs.com/en/
+	
+	https://vuematerial.io/
+
+	https://reactnativeelements.com/
+
+[games]:
+	https://junit.org/junit5/docs/current/user-guide/
+	
+	https://unity.com/pt
+
+
+[database/server/backend-api]
+	https://www.h2database.com/html/main.html
+
+	https://start.spring.io/
+
+	https://maven.apache.org/guides/
+	
+	https://www.apache.org/
+
+	https://docs.gradle.org/current/userguide/userguide.html
+	
+	https://firebase.google.com/
+
+	https://www.mysql.com/
+	
+	https://tomcat.apache.org/download-70.cgi
+
+	https://www.postgresql.org/
+	
+	https://www.mongodb.com/
+
+	https://www.microsoft.com/pt-br/sql-server/sql-server-downloads
+	
+	https://mvnrepository.com/artifact/org.springframework.boot
+
+
+[devops]:
+	https://www.docker.com/
+
+	https://hub.docker.com/
+	
+	https://kubernetes.io/pt/
+	
+	https://www.heroku.com/
+	
+	https://www.netlify.com/
+	
+	https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html
+	
+	https://kafka.apache.org/
+	
+	https://aws.amazon.com/pt/
+	
+	https://azure.microsoft.com/en-us/
+	
+	https://cloud.google.com/
+
+
+[documentation]:
+	https://developer.android.com
+	
+	https://gradle.org
+	
+	https://docs.apigee.com/
+
+	https://nodejs.org/en/
+
+	https://expressjs.com/pt-br/
+	
+	https://www.jboss.org
+	
+	https://cli.angular.io/
+
+	https://pt-br.reactjs.org/
+
+	https://angular.io/
+
+	https://vuejs.org/
+
+	https://www.ecma-international.org/
+
+	https://docs.oracle.com/en/java/
+
+	https://www.python.org/
+
+	https://www.typescriptlang.org/
+	
+	https://projectlombok.org/
+
+	https://projectlombok.org/all-versions
+
+	https://git-scm.com/doc
+
+[secuity/network]:
+https://br.norton.com/products?nortoncountry=br&om_sem_cid=hho_sem_sy:br:ggl:pt:e:br:kw0000004480:430075216000:c:google:58150642:1959815242:kwd-15050890&nortoncountry=BR&pgrid=1959815242&ptaid=kwd-15050890&gclid=CjwKCAjw6qqDBhB-EiwACBs6x9Sg-BJtILgWGAo17AfbiUgQf4BlYP7K4Dbft-vypPFDUOfW8LApVBoCBM4QAvD_BwE&gclsrc=aw.ds
+
+https://www.iana.org/
+
+https://www.ieee.org/
+
+https://archlinux.org/

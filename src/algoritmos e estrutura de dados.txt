@@ -1,0 +1,218 @@
+/*algoritmos para simulação de sistema 
+de mensageria simples a partir de notificação
+de pedido via rotina de um sistema*/
+
+
+var msg = '----------------------------------------------programa----------------------------------------------'
+
+function mensagem() {
+    return msg
+}
+function pulalinha() {
+    console.log()
+}
+console.log(mensagem())
+pulalinha()
+pulalinha()
+
+//recebimento dos pedidos
+let pedidos = []
+
+//operação de comunicação a partir de pedido recebido
+function pedido(e) {
+    pedidos.push(e)
+    let mensagemAoSistema = mensageria()
+    if(pedidos.length > 1 || e){
+        return  `pedido n°${e}, ${mensagemAoSistema} ${e}`
+    }
+   else{
+       return []
+   }
+}
+
+//remove pedidos a partir do último inserido
+function removerPedido() {
+   let remove = pedidos.pop()
+   return remove
+}
+
+//algoritmo de simulação de operação de mensagem a um circuito interno delegando a operação 
+function mensageria() {
+        let mensagemAoSistema = 'comunicação dns/ipv4 via protocolo http://localhost:3001'
+        let mensagemAoCliente = `gerar registro de log de pedido n°`
+        return   mensagemAoSistema + ',' +  mensagemAoCliente  
+}
+
+//registro de logs de pedidos gerados a partir de pedidos registrados no programa/rotina dentro do software
+function registroDepedidos() {
+    if(pedidos.length > 0) {
+        for(let i = 0; i < pedidos.length; i++)
+         console.log('pedido n°' + pedidos[i])
+    }else {
+        console.log('sem registros no sistema!')
+    }
+}
+
+
+//exemplo de saida em tela de servidor
+console.log(pedido(3))
+console.log(pedido(5) + ',' + pedido(7) + ',' + pedido(11))
+console.log(pedido(33))
+console.log(pedido(54))
+console.log(pedido(65))
+console.log(pedido(104))
+removerPedido()
+removerPedido()
+
+
+pulalinha()
+pulalinha()
+console.log('----------------------------------------------registro de logs----------------------------------------------')
+pulalinha()
+pulalinha()
+registroDepedidos()
+
+
+
+/*algoritmos para simulação de sistema 
+de mensageria simples a partir de notificação
+de pedido via rotina de um sistema*/
+
+
+
+
+//------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+function next() {
+    console.log('')
+}
+
+console.log('           transactions Example Algorithm')
+next()
+next()
+next()
+next()
+console.log('---------------------- hsbc ----------------------')
+next()
+next()
+console.log('choice your operation:')
+next()
+next()
+table()
+
+
+
+var addValue = []
+addValue.push(100)
+
+var network = {
+
+    error :false
+    
+}
+
+
+function choices(opt, cash){
+    
+    const { error } = network
+    
+    switch(opt) {
+        case 1:
+               
+            
+                if(error != true) {
+                    
+                    value = addValue.push(cash) 
+                    return 'value to insert:' + cash + ',00 R$' 
+                    
+                }else{
+                    
+                   return addValue[0]
+                }
+                
+            break;
+        case 2:
+            
+                if(error === true) {
+                    
+                    return addValue[0]
+                    
+                }else{
+                    
+                   return 'value to debt:' + debtValue(cash) + ',00 R$'
+                    
+                }
+            
+            break;
+        default:
+            return 'unknown option!'
+            break;
+    }
+    
+}
+
+
+
+
+function debtValue(cash) {
+    let valor = addValue.reduce((values, incremented) => {
+        return values + incremented
+    }, 0)
+    
+    if(valor >= cash){
+        
+                let withdraw = valor - cash 
+                return withdraw
+        
+    }else{
+         return 'value less than choiced to debt!'
+    }
+    
+    return 'total:' +  valor + ',00 R$'
+}
+
+
+
+
+function money() {
+    console.log(addValue)
+}
+
+
+
+
+function table() {
+    console.log('-------------------------------------')
+    console.log('|                                   |')
+    console.log('| add values in your account    - 1 |')
+    console.log('|                                   |')
+    console.log('| remove values in your account - 2 |')
+    console.log('|                                   |')
+    console.log('|                                   |')
+    console.log('|                                   |')
+    console.log('| @hsbc Inc 2021.                   |')
+    console.log('-------------------------------------')
+}
+
+
+
+
+console.log(choices(1,10))
+console.log(choices(1,50))
+console.log(choices(1,90))
+
+console.log(choices(2,25))
+
+console.log(choices(1,300))
+
+
+console.log(choices(2,250))
+money()
+
+
+
+//------------------------------------------------------------------------------------------------------------------------------

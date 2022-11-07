@@ -1,0 +1,59 @@
+docker --help							ajuda
+docker <comando> --help						ajuda para o comando docker
+docker <comando> && <comando>					executa vários comandos
+docker <comando> --force 					obriga a execução do comando
+docker images							mostra as imagems na máquina
+docker pull <imagem>  						download de imagem
+docker pull <imagem> && docker pull <imagem>  	  		download de imagems simultâneas
+docker run <image>    						execução de imagem
+docker run -p <porta-de-entrada>:<porta-de-saida> <imagem> 	execução de imagem em porta http
+docker run -d -p <porta-de-entrada>:<porta-de-saida> <imagem>   execução de imagem em ... alternada
+docker ps	      						vizualização de container em execução
+docker ps -a          						vizualização de container executado
+docker rmi <imagem>						remove imagem
+docker rm <container>						remove container
+docker run --name=<apelido> <imagem>				nomeia um conteiner de imagem
+docker exec <apelido>						executa container com apelido
+docker run -it -d <image> /bin/bash				acessa containers de OS linux
+docker run -i <image(OS)> <comando-interno-da-imagem>           interage acessando a imagem do OS 
+docker run -i <image(OS)> <comando-interno-da-imagem> /bin/bash interage acessando a imagem do OS 
+ctrl + d							sai do container em interação             
+
+//comandos adicionados a partir de 08/01
+
+docker container run <options> <image:tag>
+docker container run -p	
+docker container ls
+docker container ls -a
+docker container --help 
+docker container stop  <container:id>
+docker container start <container:id>	 
+docker container rm    <container:id>    
+docker container rm -f <container:id>    
+docker image ls
+docker volume --help
+docker network ls
+docker container run -p <porta>:<porta> <image:tag>
+docker container run -d -p <porta>:<porta> <image:tag>
+docker container run -d -p <porta>:<porta> --name <name:container> <image:tag>
+docker container logs <name:container>
+docker container logs -f <name:container>
+docker container top <name:container>
+docker container stats
+docker container stats <name:container>
+docker container inspect <name:container>
+docker network ls
+docker network inspect <network:id>
+docker network inspect <network:type> EX: docker network inspect bridge OR docker network inspect host
+docker container run -d --name <container:name> <image>
+
+
+links: 
+
+https://labs.play-with-docker.com/
+https://training.play-with-docker.com/ops-stage1/
+https://www.mundodocker.com.br/docker-exec/
+https://cursos.alura.com.br/forum/topico-e-possivel-sair-de-um-container-sem-parar-ele-89514
+https://terminaldeinformacao.com/2013/09/03/manipulando-arquivos-texto-no-terminal-linux/
+https://pt.wikihow.com/Criar-e-Editar-um-Arquivo-de-Texto-no-Linux-Usando-o-Terminal
+https://www.edivaldobrito.com.br/node-js-no-linux/
